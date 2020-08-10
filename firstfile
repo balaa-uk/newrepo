@@ -1,3 +1,7 @@
 This is the first file
+<<<<<<< HEAD
 second line
 3rd line
+=======
+
+>>>>>>> parent of cc0d4bc... second line
